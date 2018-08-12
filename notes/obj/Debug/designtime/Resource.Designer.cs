@@ -2501,8 +2501,11 @@ namespace notes
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F020034
-			public const int btn_anniversaryToanniversaryadd = 2130837556;
+			// aapt resource value: 0x7F020033
+			public const int btn_anniversaryToanniversaryadd = 2130837555;
+			
+			// aapt resource value: 0x7F020044
+			public const int btn_define = 2130837572;
 			
 			// aapt resource value: 0x7F020038
 			public const int btn_diaryToDiray1 = 2130837560;
@@ -2516,26 +2519,41 @@ namespace notes
 			// aapt resource value: 0x7F020041
 			public const int btn_diaryToDirayadd = 2130837569;
 			
-			// aapt resource value: 0x7F020049
-			public const int btn_menuToAccount = 2130837577;
-			
 			// aapt resource value: 0x7F020051
-			public const int btn_menuToAnniversary = 2130837585;
-			
-			// aapt resource value: 0x7F020047
-			public const int btn_menuToDiary = 2130837575;
-			
-			// aapt resource value: 0x7F020050
-			public const int btn_menuToVocabulary = 2130837584;
-			
-			// aapt resource value: 0x7F020048
-			public const int btn_menuToVoice = 2130837576;
-			
-			// aapt resource value: 0x7F020045
-			public const int btn_start_loginToMenu = 2130837573;
+			public const int btn_menuToAccount = 2130837585;
 			
 			// aapt resource value: 0x7F020053
-			public const int btn_vocabularyToVocabularyadd = 2130837587;
+			public const int btn_menuToAnniversary = 2130837587;
+			
+			// aapt resource value: 0x7F020049
+			public const int btn_menuToDiary = 2130837577;
+			
+			// aapt resource value: 0x7F020052
+			public const int btn_menuToVocabulary = 2130837586;
+			
+			// aapt resource value: 0x7F020050
+			public const int btn_menuToVoice = 2130837584;
+			
+			// aapt resource value: 0x7F020036
+			public const int btn_save = 2130837558;
+			
+			// aapt resource value: 0x7F020047
+			public const int btn_start_loginToMenu = 2130837575;
+			
+			// aapt resource value: 0x7F020061
+			public const int btn_v1 = 2130837601;
+			
+			// aapt resource value: 0x7F020062
+			public const int btn_v2 = 2130837602;
+			
+			// aapt resource value: 0x7F020063
+			public const int btn_v3 = 2130837603;
+			
+			// aapt resource value: 0x7F020056
+			public const int btn_vocabularyToVocabularyadd = 2130837590;
+			
+			// aapt resource value: 0x7F020059
+			public const int btn_vocabulary_add = 2130837593;
 			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
@@ -2593,12 +2611,6 @@ namespace notes
 			
 			// aapt resource value: 0x7F020042
 			public const int diary_add = 2130837570;
-			
-			// aapt resource value: 0x7F020035
-			public const int editView1 = 2130837557;
-			
-			// aapt resource value: 0x7F020036
-			public const int editView2 = 2130837558;
 			
 			// aapt resource value: 0x7F0C002C
 			public const int edit_query = 2131492908;
@@ -2666,8 +2678,8 @@ namespace notes
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
 			
-			// aapt resource value: 0x7F020043
-			public const int login = 2130837571;
+			// aapt resource value: 0x7F020045
+			public const int login = 2130837573;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -2675,8 +2687,8 @@ namespace notes
 			// aapt resource value: 0x7F0C0043
 			public const int media_actions = 2131492931;
 			
-			// aapt resource value: 0x7F020046
-			public const int menu = 2130837574;
+			// aapt resource value: 0x7F020048
+			public const int menu = 2130837576;
 			
 			// aapt resource value: 0x7F0C0044
 			public const int message = 2131492932;
@@ -2717,6 +2729,9 @@ namespace notes
 			// aapt resource value: 0x7F0C0047
 			public const int navigation_header_container = 2131492935;
 			
+			// aapt resource value: 0x7F020043
+			public const int newdiary = 2130837571;
+			
 			// aapt resource value: 0x7F0C0048
 			public const int none = 2131492936;
 			
@@ -2741,8 +2756,8 @@ namespace notes
 			// aapt resource value: 0x7F0C004F
 			public const int parent_matrix = 2131492943;
 			
-			// aapt resource value: 0x7F020044
-			public const int password = 2130837572;
+			// aapt resource value: 0x7F020046
+			public const int password = 2130837574;
 			
 			// aapt resource value: 0x7F0C0050
 			public const int pin = 2131492944;
@@ -2913,19 +2928,22 @@ namespace notes
 			public const int textSpacerNoTitle = 2131492988;
 			
 			// aapt resource value: 0x7F020030
-			public const int textView1 = 2130837552;
+			public const int textView2 = 2130837552;
 			
 			// aapt resource value: 0x7F020031
-			public const int textView2 = 2130837553;
+			public const int textView3 = 2130837553;
 			
 			// aapt resource value: 0x7F020032
-			public const int textView3 = 2130837554;
-			
-			// aapt resource value: 0x7F020033
-			public const int textView4 = 2130837555;
+			public const int textView4 = 2130837554;
 			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
+			
+			// aapt resource value: 0x7F020034
+			public const int theDate = 2130837556;
+			
+			// aapt resource value: 0x7F020035
+			public const int theEvent = 2130837557;
 			
 			// aapt resource value: 0x7F0C0019
 			public const int time = 2131492889;
@@ -2963,6 +2981,9 @@ namespace notes
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
 			
+			// aapt resource value: 0x7F020058
+			public const int Translation = 2130837592;
+			
 			// aapt resource value: 0x7F0C008C
 			public const int uniform = 2131493004;
 			
@@ -2975,11 +2996,17 @@ namespace notes
 			// aapt resource value: 0x7F0C008F
 			public const int visible = 2131493007;
 			
-			// aapt resource value: 0x7F020052
-			public const int vocabulary = 2130837586;
-			
 			// aapt resource value: 0x7F020054
-			public const int voice = 2130837588;
+			public const int vocabulary = 2130837588;
+			
+			// aapt resource value: 0x7F020060
+			public const int voice = 2130837600;
+			
+			// aapt resource value: 0x7F020057
+			public const int Word = 2130837591;
+			
+			// aapt resource value: 0x7F020055
+			public const int wordView = 2130837589;
 			
 			// aapt resource value: 0x7F0C0090
 			public const int wrap_content = 2131493008;

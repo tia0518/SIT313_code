@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Android;
+
 using Android.App;
 using Android.Content;
+using Android.Database;
+using Android.Database.Sqlite;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
@@ -36,6 +38,11 @@ namespace notes
                 Intent intent = new Intent(this, typeof(Activity_diary_add));
                 StartActivity(intent);
             };
+
+            var btn_diaryToDiray3 = FindViewById<Button>(Resource.Id.btn_diaryToDiray3);
+            string thisdiary = Intent.GetStringExtra("Diary");
+
+            btn_diaryToDiray3.Text = thisdiary;
         }
     }
 }

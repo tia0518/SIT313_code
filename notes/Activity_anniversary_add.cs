@@ -19,6 +19,35 @@ namespace notes
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.anniversary_add);
+
+
+            var btn_save = FindViewById<Button>(Resource.Id.btn_save);
+            var date1 = Convert.ToDateTime(FindViewById<EditText>(Resource.Id.theDate));   
+            var date2 = DateTime.Now;
+            var Event=FindViewById<EditText>(Resource.Id.theEvent);
+
+
+            var Result = calculateDate(date1, date2);
+
+            btn_save.Click += (sender, e) =>
+            {
+                string event1 = Event.Text+"\n";
+                string result = Result + "days";
+                Intent intent = new Intent(this, typeof(Activity_anniversary));
+                intent.PutExtra("Event",event1);
+                intent.PutExtra("days",result);
+                StartActivity(intent);
+            };
+
+            string calculateDate(DateTime DateTime1, DateTime DateTime2)
+            {
+                string dateDiff = null;
+                TimeSpan ts1 = new TimeSpan(DateTime1.Ticks);
+                TimeSpan ts2 = new TimeSpan(DateTime2.Ticks);
+                TimeSpan ts = ts1.Subtract(ts2).Duration();
+                dateDiff = ts.Days.ToString();
+                return dateDiff;
+            }
         }
     }
 }

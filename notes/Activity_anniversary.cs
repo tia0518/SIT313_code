@@ -28,6 +28,11 @@ namespace notes
                 StartActivity(intent);
             };
 
+            var textView4 = FindViewById<TextView>(Resource.Id.textView4);
+            string thisevent = Intent.GetStringExtra("Event");
+            string thisdays = Intent.GetStringExtra("days");
+            textView4.Text = thisevent+thisdays;
+
         }
     }
 }

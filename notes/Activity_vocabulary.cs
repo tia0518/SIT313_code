@@ -28,6 +28,9 @@ namespace notes
                 Intent intent = new Intent(this, typeof(Activity_vocabulary_add));
                 StartActivity(intent);
             };
+            var wordView = FindViewById<TextView>(Resource.Id.wordView);
+            string thisRes = Intent.GetStringExtra("Res");
+            wordView.Text = thisRes;
         }
     }
 }

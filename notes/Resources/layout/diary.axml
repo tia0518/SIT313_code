@@ -41,7 +41,6 @@
             android:background="@drawable/allTextView_radius"
             android:alpha="0.8" />
         <Button
-            android:text="Notes is good!"
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:textAllCaps="false"

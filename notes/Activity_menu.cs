@@ -11,7 +11,6 @@ using Android.Views;
 using Android.Widget;
 
 namespace notes
-
 {
     [Activity(Label = "Menu")]
     public class Activity_menu : Activity

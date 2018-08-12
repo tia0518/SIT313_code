@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace notes
 {
-    [Activity(Label = "Notes",MainLauncher = true,Icon ="@drawable/icon")]
+    [Activity(Label = "Notes",MainLauncher = true,Icon = "@drawable/icon")]
     public class Activity_login : Activity
     {
         private object sender;
@@ -27,7 +27,7 @@ namespace notes
 
             btn_start_loginToMenu.Click += (sender, e) =>
             {
-                if (password.Text == "970518")
+                if (password.Text == "123456")
                 {
 
                     Intent intent1 = new Intent(this, typeof(Activity_menu));

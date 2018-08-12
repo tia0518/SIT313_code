@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>2018/8/3 19:05:52</xs:documentation>
+    <xs:documentation>2018/8/12 20:19:07</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -561,6 +561,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -1196,6 +1198,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -1775,6 +1779,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -2331,6 +2337,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -3211,6 +3219,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -3767,6 +3777,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -4402,6 +4414,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -5390,6 +5404,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -5946,6 +5962,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -7542,6 +7560,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -8156,6 +8176,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -8712,6 +8734,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -9268,6 +9292,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -9824,6 +9850,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -10422,6 +10450,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -10978,6 +11008,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -11618,6 +11650,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -12394,6 +12428,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -13021,6 +13057,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -13760,6 +13798,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -14499,6 +14539,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -15055,6 +15097,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -16213,6 +16257,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -16848,6 +16894,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -17483,6 +17531,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -18489,6 +18539,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -19571,6 +19623,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -20127,6 +20181,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -20853,6 +20909,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -21592,6 +21650,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -22160,6 +22220,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -22899,6 +22961,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -23845,6 +23909,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -24401,6 +24467,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -27108,6 +27176,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -29468,6 +29538,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -30207,6 +30279,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -30763,6 +30837,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />
@@ -31563,6 +31639,8 @@
             <xs:enumeration value="@drawable/design_ic_visibility_off" />
             <xs:enumeration value="@drawable/design_password_eye" />
             <xs:enumeration value="@drawable/design_snackbar_background" />
+            <xs:enumeration value="@drawable/diary_add" />
+            <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/login" />
             <xs:enumeration value="@drawable/login_start" />
             <xs:enumeration value="@drawable/m1" />

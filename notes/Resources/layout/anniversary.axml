@@ -9,23 +9,11 @@
         android:id="@+id/anniversary"
         android:background="@drawable/bg7">
         <TextView
-            android:text="Come To The Earth.                               7738days"
+            android:text="Come To DeaKin.                               265days"
             android:textSize="20sp"
             android:textColor="#000000"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView1"
-            android:layout_marginTop="50dp"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
-            android:background="@drawable/allTextView_radius"
-            android:alpha="0.8" />
-        <TextView
-            android:text="Come To The Earth.                               7738days"
-            android:textSize="20sp"
-            android:textColor="#000000"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="320dp"
+            android:layout_height="60dp"
             android:id="@+id/textView2"
             android:layout_marginTop="50dp"
             android:layout_marginLeft="30dp"
@@ -33,11 +21,11 @@
             android:background="@drawable/allTextView_radius"
             android:alpha="0.8" />
         <TextView
-            android:text="Come To The Earth.                               7738days"
+            android:text="High school graduation.                        1139days"
             android:textSize="20sp"
             android:textColor="#000000"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="320dp"
+            android:layout_height="60dp"
             android:id="@+id/textView3"
             android:layout_marginTop="50dp"
             android:layout_marginLeft="30dp"
@@ -45,11 +33,10 @@
             android:background="@drawable/allTextView_radius"
             android:alpha="0.8" />
         <TextView
-            android:text="Come To The Earth.                               7738days"
             android:textSize="20sp"
             android:textColor="#000000"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="320dp"
+            android:layout_height="60dp"
             android:id="@+id/textView4"
             android:layout_marginTop="50dp"
             android:layout_marginLeft="30dp"
